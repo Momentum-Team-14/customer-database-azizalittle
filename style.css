@@ -1,0 +1,10 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    max-width: 40px;
+    margin: 10px;
+
+}
+#profiles {
+    padding: 10px;
+}
